@@ -3,7 +3,7 @@
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
-<a href="https://twitter.com/antonyraul33" target="blank"> <img align = "center" src = "https: / /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg "alt =" antonyraul33 "height =" 30 "largura =" 40 "/> </a>
+<a href="https://twitter.com/antonyraul33" target="blank"> <img align = "center" src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "alt =" antonyraul33 "height =" 30 "largura =" 40 "/> </a>
 <a href="https://linkedin.com/in/antony-raul-74a6501a3" target="blank"> <img align = "center" src = "https: //raw.githubusercontent.com / rahuldkjain / github-profile-readme-generator / neutral-icons / src / images / icons / Social / linked-in-alt.svg "alt =" antony-raul-74a6501a3 "height =" 30 "largura =" 40 "/> </a>
 <a href="https://fb.com/antony.raul.735" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator / neutral-icons / src / images / icons / Social / facebook.svg "alt =" antony.raul.735 "height =" 30 "width =" 40 "/> </a>
 <a href = "https://instagram.com/raulzin_f.33" target = "blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral -icons / src / images / icons / Social / instagram.svg "alt =" raulzin_f.33 "height =" 30 "width =" 40 "/> </a>
