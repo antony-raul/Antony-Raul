@@ -60,7 +60,7 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 
 [c]: http://linguagemc.com.br/
 [c++]: https://www.w3schools.com/cpp/
-[java]: https://docs.oracle.com/javase/8/docs/
+[java]: https://www.oracle.com/br/java/
 [js]: https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript
 [py]: https://www.python.org
 [react]: https://reactjs.org/
