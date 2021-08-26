@@ -15,7 +15,7 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 
 
 
-<h3 align="left">Languages and Tools:</h3> 
+<!--- <h3 align="left">Languages and Tools:</h3> 
 
 [<img aling="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">][html]
 [<img aling="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">][css]
@@ -34,7 +34,7 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 [<img aling="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">][postgresql]
 [<img aling="left" width="40" height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">][sqlite]
 
-
+-->
 
 
 
