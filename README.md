@@ -58,7 +58,7 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 </a>
 
 
-[c]: http://linguagemc.com.br/
+<!-- [c]: http://linguagemc.com.br/
 [c++]: https://www.w3schools.com/cpp/
 [java]: https://www.oracle.com/br/java/
 [js]: https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript
@@ -73,5 +73,5 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 [native]: https://reactnative.dev
 [mysql]: https://www.mysql.com/
 [postgresql]: https://www.postgresql.org
-[sqlite]: https://www.sqlite.org/
+[sqlite]: https://www.sqlite.org/ -->
 
