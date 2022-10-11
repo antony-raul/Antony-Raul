@@ -49,7 +49,7 @@ Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 
 
 <a href="https://github.com/antony-raul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antony-raul&count_private=tru&show_icons=true&theme=radical&hide=issues" alt="Antony Raul's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antony-raul&count_private=true&show_icons=true&theme=radical&hide=issues" alt="Antony Raul's github stats" />
 </a>
 <a href="https://github.com/antony-raul">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
